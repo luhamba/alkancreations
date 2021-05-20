@@ -1,0 +1,164 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="luhamba.com" resolutions="1x" timestamp="1621514866203">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="3890260785" ref="management:index:about"/>
+    <file name="nomq_preview_master_a-master.css" crc="4161463495" ref="management:index:about"/>
+    <file name="management.css" crc="3801014321" ref="management"/>
+    <file name="nomq_management.css" crc="3932715324" ref="management"/>
+    <file name="index.css" crc="333527110" ref="index"/>
+    <file name="nomq_index.css" crc="53981841" ref="index"/>
+    <file name="about.css" crc="4004937186" ref="about"/>
+    <file name="nomq_about.css" crc="3948558612" ref="about"/>
+  </folder>
+  <folder name="fonts">
+    <file name="fa-brands-400.woff" crc="367239046"/>
+    <file name="fa-brands-400.eot" crc="4034502842"/>
+    <file name="fa-brands-400.svg" crc="267757290"/>
+    <file name="fa-solid-900.woff" crc="3940956581"/>
+    <file name="fa-solid-900.eot" crc="90051872"/>
+    <file name="fa-solid-900.svg" crc="529533036"/>
+  </folder>
+  <folder name="assets">
+    <file name="albert-cv-2.jpg" crc="260356439" seo="true" mt="1621452476000"/>
+    <file name="new-arrival-web-social-media-banner.jpg" crc="302558751" seo="true" mt="1621126188000"/>
+    <file name="квадратный-баннер-шаблон-продажи-с-наушниками.jpg" crc="4203971732" seo="true" mt="1621126174000"/>
+    <file name="dark-color-classic-watch-brand-product-social-media-post-banner-template.jpg" crc="3884366249" seo="true" mt="1621126144000"/>
+    <file name="headphone-brand-product-social-media-banner-design-template.jpg" crc="4172754693" seo="true" mt="1621126165000"/>
+    <file name="download-business-infographic-flat-design-with-photo-for-free.jpg" crc="3783222102" seo="true" mt="1621126392000"/>
+    <file name="download-detailed-business-infographic-with-photo-for-free.jpg" crc="3804800207" seo="true" mt="1621126398000"/>
+    <file name="real-pixels-responsive_jpg-by-balkan-brothers.jpg" crc="260913191" seo="true" mt="1621125543000"/>
+    <file name="responsive_preview_jpg-by-balraj.jpg" crc="4254824076" seo="true" mt="1621125517000"/>
+    <file name="4843feb1.jpeg.gif" crc="3901861430" seo="true" mt="1621514081000"/>
+    <file name="4.gif" crc="513963997" seo="true" mt="1621514199000"/>
+    <file name="3.gif" crc="251403746" seo="true" mt="1621514174000"/>
+    <file name="untitled-1.gif" crc="4050367879" seo="true" mt="1621514095000"/>
+    <file name="2.gif" crc="318251577" seo="true" mt="1621514145000"/>
+    <file name="1.gif" crc="3798854396" seo="true" mt="1621514125000"/>
+    <file name="5.gif" crc="4245751818" seo="true" mt="1621514579000"/>
+    <file name="6.gif" crc="451431154" seo="true" mt="1621514662000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:management"/>
+    <file name="museutils.js" crc="340535759" ref="index:about:management"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about:management"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:about:management"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:about:management"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:management"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:about:management"/>
+    <file name="webpro.js" crc="4059564322" ref="index"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about:management"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index:about:management"/>
+    <file name="require.js" crc="7928878" ref="index:about:management"/>
+  </folder>
+  <folder name="images">
+    <file name="pexels-ylanite-koppens-2343170.jpg" crc="26030116" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4843feb1jpeg.gif" crc="3901861430" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4.gif" crc="513963997" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3.gif" crc="251403746" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="untitled-1.gif" crc="4050367879" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2.gif" crc="318251577" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1.gif" crc="3798854396" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="earphone social media banner.jpg" crc="4275043885" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:about:management"/>
+    <file name="new.jpg" crc="37980333" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="new2 .jpg" crc="4202244274" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="5.jpg" crc="3917531798" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="6.jpg" crc="105330397" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pexels-ylanite-koppens-2343170-u2210-3-fr.jpg" crc="115258468" ref="index"/>
+    <file name="pexels-ylanite-koppens-2343170-u2210-3-fr2.jpg" crc="311717724" ref="index"/>
+    <file name="5-u4007-fr.jpg" crc="169975910" ref="index"/>
+    <file name="6-u4013-fr.jpg" crc="27118133" ref="index"/>
+    <file name="pexels-ylanite-koppens-2343170-u2210-3-fr3.jpg" crc="3809089393" ref="index"/>
+    <file name="5-u4007-fr2.jpg" crc="3841192631" ref="index"/>
+    <file name="6-u4013-fr2.jpg" crc="254579522" ref="index"/>
+    <file name="5-u4007-fr3.jpg" crc="145143052" ref="index"/>
+    <file name="6-u4013-fr3.jpg" crc="3760913888" ref="index"/>
+    <file name="pexels-ylanite-koppens-2343170-u2210-3-fr4.jpg" crc="4064639074" ref="index"/>
+    <file name="5-u4007-fr4.jpg" crc="211756410" ref="index"/>
+    <file name="6-u4013-fr4.jpg" crc="111546917" ref="index"/>
+    <file name="substitute.gif" crc="141534099" ref="management">
+      <caption webpage="management" alt=""/>
+      <caption webpage="management" alt=""/>
+      <caption webpage="management" alt=""/>
+      <caption webpage="management" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="47025429" seo="true" mt="1621514727061" redirect="true"/>
+  <file name="about.html" crc="53434159" seo="true" mt="1621454456155" redirect="true"/>
+  <file name="management.html" crc="149019418" seo="true" mt="1621513757636" redirect="true"/>
+</manifest>
